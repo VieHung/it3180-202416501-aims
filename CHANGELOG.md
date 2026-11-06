@@ -2,7 +2,7 @@
 
 ## [Unreleased]
 ### Added
-
+- Tìm DVD theo thể loại bằng search_by_category().
 - Sắp xếp giỏ hàng theo tiêu đề bằng sort_by_title().
 - Sắp xếp giỏ hàng theo giá bằng sort_by_cost().
 
