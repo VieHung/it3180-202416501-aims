@@ -6,7 +6,7 @@
 - Sắp xếp giỏ hàng theo tiêu đề bằng sort_by_title().
 - Sắp xếp giỏ hàng theo giá bằng sort_by_cost().
 
-
+## [1.0.1]
 ## [1.0.0] - 2026-11-06
 
 ### Added
